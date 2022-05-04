@@ -1,4 +1,14 @@
 ### Hi there 👋
+<br/>
+Welcome To my GITHUB.
+<br/>
+I am ⚡️ Front-end Newbie ⚡️  Sohui Suh
+<br/><br/>
+Now learning ReactJS 💙
+<br/>
+<br/>
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=greenish0902)](https://solved.ac/greenish0902)
 
 <!--
 **greenish0902/greenish0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
