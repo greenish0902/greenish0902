@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 </p>
-<br/>
+<!-- <br/>
 <p align="center">
   As Usual...
   <br/>
@@ -31,7 +31,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=greenish0902&theme=cold"/>
   <br/>
   <img src="https://velog-readme-stats.vercel.app/api?name=greenish0902"/>
-</p>
+</p> -->
 
 <!--
 **greenish0902/greenish0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
