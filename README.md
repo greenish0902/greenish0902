@@ -15,7 +15,9 @@
   <br/>
   <img  src="https://img.shields.io/badge/React-3A3A42?style=flat&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=black"/>
+  <br/>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=greenish0902"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreenish0902&count_bg=%23B2DE91&title_bg=%232A2A2A&icon=github.svg&icon_color=%23FFFFFF&title=welcome%21&edge_flat=false"/>
 </p>
 <br/>
 <p align="center">Used to...<br/><br/>
@@ -23,6 +25,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 </p>
+
 <!-- <br/>
 <p align="center">
   As Usual...
@@ -32,6 +35,7 @@
   <br/>
   <img src="https://velog-readme-stats.vercel.app/api?name=greenish0902"/>
 </p> -->
+
 
 <!--
 **greenish0902/greenish0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
