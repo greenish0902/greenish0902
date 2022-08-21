@@ -16,4 +16,6 @@
 - [velog](https://velog.io/@greenish0902) for PS
 - [github blog](https://greenish0902.github.io/) for my TIL
 
-<a href="https://hits.sh/github.com/greenish0902/"><img alt="Hits" src="https://hits.sh/github.com/greenish0902.svg?label=welcome!&color=bce6bc&labelColor=5a5a5a&logo=Github"/></a>
+<a href="https://hits.sh/github.com/greenish0902/">
+<img alt="Hits" src="https://hits.dwyl.com/greenish0902/greenish0902.svg?style=flat-square&show=unique"/>
+</a>
